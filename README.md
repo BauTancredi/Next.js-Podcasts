@@ -3,7 +3,12 @@
 App de Podcasts integrada con la API de AudioBoom.
 
 ![Captura de la App](.readme-static/image1.png)
-![Captura de la App](.readme-static/image3.png)
+
+<br>
+<div style="text-align:center">
+<img src="/.readme-static/image3.png" width="40%" alt="Captura de la App">.
+</div>
+
 
 ## ¿Cómo funciona?
 
